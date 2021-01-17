@@ -1,5 +1,5 @@
 # Artificial-Neural-Network-French-version-
 Pourquoi ce papier? Quelle est sa valeur ajoutée? Certes, il y a trop d'articles scientifiques sur les réseaux de neurones artificiels (vous pouvez rechercher sur le net, vous-même, principalement si vous êtes un data scientist ou un ingénieur en apprentissage automatique: vous avez certainement lu des tonnes d'articles sur ce sujet). Mais imaginez! Il n'y a presque pas d'articles qui donnent des exemples de "calcul manuel" réel de ces algorithmes fascinants (derrière les réseaux de neurones artificiels).
 
-En fait l'avantage de cet exemple pratique, que je présente, est de vous montrer le "BEHIND THE SCENES" de ces algorithmes, vous plonge dans le cerveau de ceux qui les ont construits, et ça vous permettra ensuite de vous approprier ces algorithmes (donc, elles ne seront plus des «boîtes noires», juste prêtes à être utilisées ou à construire dessus!):
+En fait l'avantage de cet exemple pratique, que je présente, est de vous montrer le "BEHIND THE SCENES" de ces algorithmes,de vous plonger dans le cerveau de ceux qui les ont construits, et de vous permettre ensuite de vous approprier ces algorithmes (donc, ils ne seront plus des «boîtes noires», juste prêtes à être utilisées ou à construire dessus!):
 Mon objectif ultime est d'être limpide et engageante, mais avec une touche de plaisir et d'unicité!
